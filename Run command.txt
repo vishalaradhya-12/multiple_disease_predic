@@ -1,0 +1,1 @@
+streamlit run "C:\Users\vishala\Desktop\Multiple disease prediction\Multiple_disease_prediction.py"
